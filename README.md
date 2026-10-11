@@ -77,8 +77,7 @@ Then click **Kernel → Restart & Run All**.
 - Document every cleaning step so the work is reproducible.
 
 ## Author
-**Name:** _Your Name_
-**LinkedIn:** _Your LinkedIn URL_
+**Name:** Veda Shivayogi Ramagondanahalli
 **Internship:** CodeOrbit Tech — Data Science (1 Month)
 
 ---
