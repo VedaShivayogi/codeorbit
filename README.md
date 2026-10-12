@@ -1,4 +1,4 @@
-# CodeOrbit_DataCleaning
+# CodeOrbit DataCleaning
 
 **CodeOrbit Tech — Data Science Internship | Task 1: Data Cleaning & Exploration with Pandas**
 
